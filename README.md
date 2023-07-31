@@ -2,7 +2,7 @@
 
 Hi there 👋
 
-I'm Camilo Palacios. A technology enthusiasts and a Junior Software Engineer
+My name is Camilo Palacios I'm Junior Software Engineer
 
 <details>
 <summary>My top languages</summary>
