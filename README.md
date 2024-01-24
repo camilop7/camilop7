@@ -2,9 +2,9 @@
 
 Hi there 👋
 
-My name is Camilo Palacios I am a Software Engineer. I am currently based in the UK where I obtained
-my last international certification. I have over 10 year of expirience working and managing logistic
-operations in different countries. I am originally from Bogota, Colombia. I speak fluent spanish and
+My name is Camilo Palacios I am a Software Engineer. I am currently based in London.
+I have over 10 year of expirience working and managing logistics operations in different countries.
+I am originally from Bogota, Colombia. I speak fluent spanish and
 english.
 
 <details>
