@@ -12,10 +12,10 @@ english.
 
 | Rank |   Languages  |
 |-----:|--------------|
-|     1| Ruby on Rails|
+|     1| React        |
+|     2| Typescript   |
+|     3| Ruby on Rails|
 |     2| JavaScript   |
-|     3| SQL          |
-|     2| Python       |
  
 </details>
 
