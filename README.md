@@ -3,19 +3,19 @@
 Hi there 👋
 
 My name is Camilo Palacios I am a Software Engineer. I am currently based in London.
-I have over 10 year of expirience working and managing logistics operations in different countries.
-I am originally from Bogota, Colombia. I speak fluent spanish and
-english.
+I have over 10 year of experience working and managing logistics operations in different countries.
+I am originally from Bogota, Colombia. I speak fluent Spanish and English.
 
 <details>
 <summary>My top languages - Click me </summary>
 
 | Rank |   Languages  |
 |-----:|--------------|
-|     1| React        |
+|     1| Native React |
 |     2| Typescript   |
 |     3| Ruby on Rails|
-|     2| JavaScript   |
+|     4| Linux CLI    |
+|     5| JavaScript   |
  
 </details>
 
