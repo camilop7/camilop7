@@ -11,11 +11,11 @@ I am originally from Bogota, Colombia. I speak fluent Spanish and English.
 
 | Rank |   Languages  |
 |-----:|--------------|
-|     1| React Native |
-|     2| Typescript   |
-|     3| Ruby on Rails|
+|     1| Python       |
+|     2| Ruby on Rails|
+|     3| JavaScript   |
 |     4| Linux CLI    |
-|     5| JavaScript   |
+|     5|  Rust        |
  
 </details>
 
